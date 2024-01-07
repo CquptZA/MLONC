@@ -6,8 +6,12 @@ The code of Oversampling Multi-Label Data based on Natural Neighbor and Label Co
 
 main package version：
 numpy                              1.21.6 
+
 pandas                             0.24.2 
-scikit-learn                       1.0.2    
-scikit-multilearn                  0.2.0    
+
+scikit-learn                       1.0.2   
+
+scikit-multilearn                  0.2.0  
+
 and python==3.7
 
