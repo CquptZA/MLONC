@@ -2,9 +2,16 @@
 The code of Oversampling Multi-Label Data based on Natural Neighbor and Label Correlation
 1.pip install skmultilearn or move skmultilearn we provide in your conda env (I suggest moving the package we provide directly,because the original package had many bugs).
 2.run MLNONC.ipynb You can adjust the sampling rate from the "main" function.
+The code of MLONC is mainly divided into three parts: 
+
+data processing (Each function is easy to understand)
+our main method (searching for natural neighbors and sampling)
+training(5 * 2 fold cross validation)
 
 
-main package version：
+
+main package version:
+
 numpy                              1.21.6 
 
 pandas                             0.24.2 
