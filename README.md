@@ -11,7 +11,7 @@ data processing (Each function is easy to understand)
 our main method (searching for natural neighbors and sampling)
 training(5 * 2 fold cross validation)
 
-
+More base classifiers and data acquisition methods http://scikit.ml/
 
 main package version:
 
@@ -25,3 +25,6 @@ scikit-multilearn                  0.2.0
 
 and python==3.7
 
+Here we only provide evaluation metrics for Macro-F，You can implement more evaluation methods yourself
+
+We will announce all sampling parameter settings after the paper is accepted
