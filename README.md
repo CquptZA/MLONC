@@ -4,6 +4,8 @@ step:
 
 1.pip install skmultilearn or move skmultilearn we provide in your conda env (I suggest moving the package we provide directly,because the original package had many bugs).
 
+skmultilearn provides many classic MLC algorithms, such as BR, CC, RAKEL, and MLkNN, etc. but unfortunately, it is no longer maintained and we have fixed bugs in these algorithms. More details http://scikit.ml/.
+
 2.run MLNONC.ipynb You can adjust the sampling rate from the "main" function.
 The code of MLONC is mainly divided into three parts: 
 
@@ -25,3 +27,6 @@ scikit-multilearn                  0.2.0
 
 and python==3.7
 
+
+
+We have provided Macro-F for evaluation metrics, and more evaluation metrics can be easily added by yourselves. Of course, we will provide all parameter values after the paper is accepted.
