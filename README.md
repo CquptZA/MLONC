@@ -30,3 +30,7 @@ and python==3.7
 
 
 We have provided Macro-F for evaluation metrics, and more evaluation metrics can be easily added by yourselves. Of course, we will provide all parameter values after the paper is accepted.
+
+
+You can follow me, and I will create a Python based multi-label sampling algorithm library in March, including MLROS, MLSMOTE, MLSOL, REMEDIAL, MLTL, etc. 
+And it will update some algorithms that are not provided by skmultilearn, such as ECC and COCOA In addition, due to the popularity of deep learning, I will also upload a summary of deep learning algorithms, including C2AE, MPVAE, CLIF, PACA, DELA.
