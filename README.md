@@ -6,12 +6,15 @@ step:
 
 skmultilearn provides many classic MLC algorithms, such as BR, CC, RAKEL, and MLkNN, etc. but unfortunately, it is no longer maintained and we have fixed bugs in these algorithms. More details http://scikit.ml/.
 
-2.run MLNONC.ipynb You can adjust the sampling rate from the "main" function.
+2.download MLNONC.rar
+
+You can adjust the sampling rate p from the Main function.
 The code of MLONC is mainly divided into three parts: 
 
 data processing (Each function is easy to understand)
-our main method (searching for natural neighbors and sampling)
-training(5 * 2 fold cross validation)
+Sampling (MLONC main Code)
+our main method (searching for natural neighbors and sampling) with training(5 * 2 fold cross validation)
+
 
 
 # Need
